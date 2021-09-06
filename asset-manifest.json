@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/M_R_BlogEntry/static/css/main.f2042a06.chunk.css",
+    "main.js": "/M_R_BlogEntry/static/js/main.72c8ebf7.chunk.js",
+    "main.js.map": "/M_R_BlogEntry/static/js/main.72c8ebf7.chunk.js.map",
+    "runtime-main.js": "/M_R_BlogEntry/static/js/runtime-main.d9808b60.js",
+    "runtime-main.js.map": "/M_R_BlogEntry/static/js/runtime-main.d9808b60.js.map",
+    "static/js/2.401035eb.chunk.js": "/M_R_BlogEntry/static/js/2.401035eb.chunk.js",
+    "static/js/2.401035eb.chunk.js.map": "/M_R_BlogEntry/static/js/2.401035eb.chunk.js.map",
+    "static/js/3.90424763.chunk.js": "/M_R_BlogEntry/static/js/3.90424763.chunk.js",
+    "static/js/3.90424763.chunk.js.map": "/M_R_BlogEntry/static/js/3.90424763.chunk.js.map",
+    "index.html": "/M_R_BlogEntry/index.html",
+    "static/css/main.f2042a06.chunk.css.map": "/M_R_BlogEntry/static/css/main.f2042a06.chunk.css.map",
+    "static/js/2.401035eb.chunk.js.LICENSE.txt": "/M_R_BlogEntry/static/js/2.401035eb.chunk.js.LICENSE.txt",
+    "static/media/Mountain - 22512.70a14243.mp4": "/M_R_BlogEntry/static/media/Mountain - 22512.70a14243.mp4",
+    "static/media/App.css": "/M_R_BlogEntry/static/media/Raleway-VariableFont_wght.3fefe681.ttf",
+    "static/media/field-176602_1920.42d41c3c.jpg": "/M_R_BlogEntry/static/media/field-176602_1920.42d41c3c.jpg",
+    "static/media/field-3101302_1920.4430b42b.jpg": "/M_R_BlogEntry/static/media/field-3101302_1920.4430b42b.jpg",
+    "static/media/forest-3119826_1920.cdbd94c5.jpg": "/M_R_BlogEntry/static/media/forest-3119826_1920.cdbd94c5.jpg",
+    "static/media/garda-6510155_1920.4b82600c.jpg": "/M_R_BlogEntry/static/media/garda-6510155_1920.4b82600c.jpg",
+    "static/media/grain-4858574_1920.bdc36321.jpg": "/M_R_BlogEntry/static/media/grain-4858574_1920.bdc36321.jpg",
+    "static/media/grass-3743023_1920.9797f543.jpg": "/M_R_BlogEntry/static/media/grass-3743023_1920.9797f543.jpg",
+    "static/media/hintersee-3601004_1920.8a9b638a.jpg": "/M_R_BlogEntry/static/media/hintersee-3601004_1920.8a9b638a.jpg",
+    "static/media/land-3799279_1920.7c8b72d0.jpg": "/M_R_BlogEntry/static/media/land-3799279_1920.7c8b72d0.jpg",
+    "static/media/mountain-landscape-2031539_1920.eba939aa.jpg": "/M_R_BlogEntry/static/media/mountain-landscape-2031539_1920.eba939aa.jpg",
+    "static/media/mountains-6513559_1920.28e68e8a.jpg": "/M_R_BlogEntry/static/media/mountains-6513559_1920.28e68e8a.jpg",
+    "static/media/nature-6515696_1920.a366b1f1.jpg": "/M_R_BlogEntry/static/media/nature-6515696_1920.a366b1f1.jpg",
+    "static/media/terminal-moraine-6506920_1920.96a12a10.jpg": "/M_R_BlogEntry/static/media/terminal-moraine-6506920_1920.96a12a10.jpg",
+    "static/media/tree-3398108_1920.2aab81d2.jpg": "/M_R_BlogEntry/static/media/tree-3398108_1920.2aab81d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9808b60.js",
+    "static/js/2.401035eb.chunk.js",
+    "static/css/main.f2042a06.chunk.css",
+    "static/js/main.72c8ebf7.chunk.js"
+  ]
+}
